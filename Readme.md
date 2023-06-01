@@ -7,6 +7,7 @@ Readme:
 2. Some documents are from PHH's GSI project. 
 3. Please note that this document is written in Chinese.This is only for project description.  
 4. GSI problem please go to [Phh's Huawei P10 And P10 Plus Wiki Page](https://github.com/phhusson/treble_experimentations/wiki/Huawei-P10-and-P10-Plus).I also contribute to this wiki. The language of this page is English.  
+5. Now add how to  integrate KernelSU for Huawei EMUI 9/9.1 devices tutorial. [tutorial](https://github.com/Coconutat/HuaweiP10-GSI-And-Modify-Tutorial/wiki/7.KernelSU%E9%80%82%E9%85%8DEMUI9%E6%88%969.1.0%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%86%85%E6%A0%B8)    
 [Tutorial in Wiki Pages](https://github.com/Coconutat/HuaweiP10-GSI-And-Modify-Tutorial/wiki)
 
 
@@ -17,4 +18,5 @@ Readme:
 2. 一些文档是来自PHH的GSI项目。
 3. 请注意本文档是由简体中文写成，这里只是作项目阐述。 
 4. GSI问题请访问[Phh的华为P10和P10 Plus Wiki页面](https://github.com/phhusson/treble_experimentations/wiki/Huawei-P10-and-P10-Plus).我也为这个维基做贡献。此页面的使用语言为英语。  
+5. 现在增加了如何为华为EMUI9/9.1的设备适配KernelSU的教程。[教程](https://github.com/Coconutat/HuaweiP10-GSI-And-Modify-Tutorial/wiki/7.KernelSU%E9%80%82%E9%85%8DEMUI9%E6%88%969.1.0%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%86%85%E6%A0%B8)    
 [教程在Wiki页面](https://github.com/Coconutat/HuaweiP10-GSI-And-Modify-Tutorial/wiki)
